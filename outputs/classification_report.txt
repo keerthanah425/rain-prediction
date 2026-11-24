@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+     No Rain       0.92      0.84      0.88     22064
+        Rain       0.58      0.75      0.65      6375
+
+    accuracy                           0.82     28439
+   macro avg       0.75      0.80      0.77     28439
+weighted avg       0.84      0.82      0.83     28439
